@@ -243,11 +243,10 @@ function create_config( )
     "lock_join",
     "support"
     },
-    sudo_users = {158990680},--Sudo users
+    sudo_users = {140925196},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/yaghibot.git
 ]],
     help_text_realm = [[
 Realm Commands:
